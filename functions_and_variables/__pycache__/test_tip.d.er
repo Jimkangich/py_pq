@@ -1,0 +1,11 @@
+##[pylyzer] succeed /home/jimkangich/Projects/py_pq/py_pq/test_tip.py 1760697391 504
+.___v_desugar_1 = pyimport "tip"
+.tip = pyimport "tip"
+.dollars_to_float: (d: Str) -> Float
+.___v_desugar_2 = pyimport "tip"
+
+.percent_to_float: (p: Str) -> Float
+.test_correct_input: () -> NoneType
+.test_wrong_input: () -> NoneType
+.test_correct_percent_input: () -> NoneType
+.test_wrong_input_percent: () -> NoneType

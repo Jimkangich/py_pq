@@ -1,0 +1,6 @@
+##[pylyzer] succeed /home/jimkangich/Projects/py_pq/py_pq/test_einstein.py 1760694069 286
+
+.___v_desugar_1 = pyimport "einstein"
+.einstein = pyimport "einstein"
+.energy_calculation: (some_mass: Int) -> Int
+.test_integers: () -> NoneType

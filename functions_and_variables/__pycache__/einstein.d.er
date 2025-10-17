@@ -1,0 +1,9 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/einstein.py 1760694037 622
+
+.main: () -> NoneType
+.mass_input: (prompt: Str) -> NoneType
+.energy_calculation: (some_mass: Int) -> Int
+
+
+
+

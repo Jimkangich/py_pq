@@ -1,0 +1,10 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/tip.py 1760700407 872
+
+.main: () -> NoneType
+.dollars_to_float: (d: Str) -> Float
+.percent_to_float: (p: Str) -> Float
+
+
+
+
+

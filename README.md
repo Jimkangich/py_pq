@@ -1,5 +1,5 @@
 # py_pq
 This repo contains my py qna programs.
 
-## Reuquired Pakages
+## Required Pakages
 1. pytest

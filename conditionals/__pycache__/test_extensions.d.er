@@ -1,0 +1,8 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/loops/test_extensions.py 1760764089 954
+
+.___v_desugar_1 = pyimport "extensions"
+.extensions = pyimport "extensions"
+.file_type_check: (name: Str) -> Str
+.test_correct_filename: () -> NoneType
+.test_wrong_input: () -> NoneType
+

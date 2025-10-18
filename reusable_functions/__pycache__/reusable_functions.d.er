@@ -1,0 +1,7 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/reusable_functions/reusable_functions.py 1760757018 721
+
+.get_str_input: (prompt: Str) -> Str
+.get_str_input_lower: (prompt: Str) -> Str
+.get_str_input_upper: (prompt: Str) -> Str
+.get_int_input: (prompt: Str) -> NoneType
+.get_float_input: (prompt: Str) -> NoneType

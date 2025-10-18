@@ -1,0 +1,9 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/loops/interpreter.py 1760771316 1223
+
+.main: () -> NoneType
+.get_expression: (prompt: Str) -> Str
+.arithmetic_operations: (expression: Str) -> NoneType
+
+
+
+

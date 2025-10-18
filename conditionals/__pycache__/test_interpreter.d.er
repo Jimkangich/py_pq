@@ -1,0 +1,11 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/loops/test_interpreter.py 1760771632 933
+
+.___v_desugar_1 = pyimport "interpreter"
+.interpreter = pyimport "interpreter"
+.arithmetic_operations: (expression: Str) -> NoneType
+.test_addition: () -> NoneType
+.test_subtraction: () -> NoneType
+.test_division: () -> NoneType
+.test_multiplication: () -> NoneType
+.test_division_by_zero: () -> NoneType
+.test_modulous: () -> NoneType

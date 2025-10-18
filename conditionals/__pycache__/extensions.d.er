@@ -1,0 +1,9 @@
+##[pylyzer] failed /home/jimkangich/Projects/py_pq/py_pq/loops/extensions.py 1760763928 1170
+
+.main: () -> NoneType
+.get_str_input_lower: (prompt: Str) -> Str
+.file_type_check: (name: Str) -> Str
+
+
+
+

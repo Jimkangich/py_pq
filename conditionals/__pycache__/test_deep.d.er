@@ -1,0 +1,10 @@
+##[pylyzer] succeed /home/jimkangich/Projects/py_pq/py_pq/loops/test_deep.py 1760755692 409
+
+.___v_desugar_1 = pyimport "deep"
+.deep = pyimport "deep"
+.answer_determiner: (possible_answer: Str) -> Str
+.___v_desugar_2 = pyimport "deep"
+
+.get_str_input: (prompt: Str) -> Str
+.test_correct_answers: () -> NoneType
+.test_wrong_answers: () -> NoneType

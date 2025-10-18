@@ -1,0 +1,5 @@
+##[pylyzer] succeed /home/jimkangich/Projects/py_pq/py_pq/loops/test_bank.py 1760758471 454
+.___v_desugar_1 = pyimport "bank"
+.bank = pyimport "bank"
+.greeting_return: (possible_greeting: Str) -> Str
+.test_correct_greetings: () -> NoneType

@@ -1,4 +1,4 @@
-# Questions on loops
+# Questions on conditionals
 
 ## Deep Thought
     “All right,” said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable.

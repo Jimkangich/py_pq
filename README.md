@@ -1,2 +1,2 @@
 # py_pq
-This repo contains my personal practice questions when learning Python.
+This repo contains my py qna programs.

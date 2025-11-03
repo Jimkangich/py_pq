@@ -1,6 +1,8 @@
+<!-- markdownlint-disable -->
 # questions on loops
 
 ## Camel Case
+
 In some languages, it’s common to use camel case (otherwise known as “mixed case”) for variables’ names when those names comprise multiple words, whereby the first letter of the first word is lowercase but the first letter of each subsequent word is uppercase. For instance, whereas a variable for a user’s name might be called name, a variable for a user’s first name might be called firstName, and a variable for a user’s preferred first name (e.g., nickname) might be called preferredFirstName.
 
 Python, by contrast, recommends snake case, whereby words are instead separated by underscores (_), with all letters in lowercase. For instance, those same variables would be called name, first_name, and preferred_first_name, respectively, in Python.
@@ -18,9 +20,20 @@ Input and Output
 (o)camelCase: (i)preferredFirstName
 (o)snake_case: (i)preferred_first_name
 
-
 ### Concepts Learned
+    str.isupper()
+Return True if all cased characters in the string are uppercase and there is at least one cased character, False otherwise.
 
+    'BANANA'.isupper()
+
+    'banana'.isupper()
+
+    'baNana'.isupper()
+
+    ' '.isupper()
+Much like a list, a str is “iterable,” which means you can iterate over each of its characters in a loop. For instance, if s is a str, you could print each of its characters, one at a time, with code like:
+    for c in s:
+        print(c, end="")
 
 
 ## Coke Machine
@@ -37,16 +50,10 @@ Input and Output
 (o)Change Owed: (0)0
 
 
-(o)Amount Due: (o)50
-(o)Insert Coin: (i)50
-(o)Change Owed: (0)0
-
-(o)Amount Due: (o)50
-(o)Insert Coin: (i)49
-(o)Amount Due: (o)50
-
 
 ### Concepts Learned
+while loop
+
 
 ## Just Setting up My Twttr
 When texting or tweeting, it’s not uncommon to shorten words to save time or space, as by omitting vowels, much like Twitter was originally called twttr. In a file called twttr.py, implement a program that prompts the user for a str of text and then outputs that same text but with all vowels (A, E, I, O, and U) omitted, whether inputted in uppercase or lowercase.
@@ -61,11 +68,8 @@ Input and Output
 
 (o)Input: (i)CS50
 (o)Output: (o)CS50
-
-
-
 ### Concepts Learned:
-
+str.replace()
 
 
 ## Vanity Plates
